@@ -1,2 +1,2 @@
-# Bright-nlpportfolio.github.io
+# Julius-portfolio.github.io
 A summary Of My Personal Portfolio
